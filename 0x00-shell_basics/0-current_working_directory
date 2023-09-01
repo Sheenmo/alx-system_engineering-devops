@@ -1,2 +1,5 @@
-./0-current_working_directory
+
+#!/bin/bash
+echo "Moments to decide"
+
 
